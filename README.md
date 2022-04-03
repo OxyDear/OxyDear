@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OxyDear
 - 👀 I’m interested in chess and programming.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on (nothing)
+- 📫 How to reach me (nothing)
 
 <!---
 OxyDear/OxyDear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
