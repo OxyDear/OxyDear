@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OxyDear
 - 👀 I’m interested in chess and programming.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on (nothing)
 - 📫 How to reach me (nothing)
 
